@@ -1,0 +1,13 @@
+CACHE MANIFEST 
+#DATE 2021-01-11
+CACHE:
+assets/css/style.css
+
+
+
+NETWORK:
+*
+
+
+FALLBACK:
+#static.html
